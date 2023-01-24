@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Dancing+Script:wght@700&display=swap');
+
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Anton', sans-serif;
+    background-image: linear-gradient(rgb(194, 137, 146),rgb(0, 162, 255));
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+header{
+    text-align: center;
+}
